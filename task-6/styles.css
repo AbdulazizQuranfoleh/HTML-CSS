@@ -1,0 +1,29 @@
+* {
+  background-color: blanchedalmond;
+}
+
+.paragraph1 {
+  margin: 70px;
+  border-style: solid;
+  background-color: white;
+}
+.paragraph2 {
+  margin: 70px;
+  border: dashed black;
+  background-color: white;
+}
+
+.paragraph3 {
+  margin: 70px;
+  border: solid;
+  background-color: white;
+}
+.paragraph22 {
+  margin: 70px;
+  border: dashed red;
+}
+h1 {
+  padding: 10px;
+
+  background: white;
+}

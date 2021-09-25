@@ -1,0 +1,17 @@
+.green {
+  background-color: rgb(50, 187, 32);
+  width: 10px;
+  display: inline-block;
+  border: black 1px solid;
+  padding: 10px;
+  margin: 2px;
+}
+.yallow {
+  background-color: rgb(203, 238, 5);
+  width: 10px;
+  display: inline-block;
+  margin-top: 800px;
+  border: black 1px solid;
+  padding: 10px;
+  margin: 20px;
+}

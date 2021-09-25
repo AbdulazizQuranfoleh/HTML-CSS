@@ -1,0 +1,30 @@
+* {
+  background-color: rgb(226, 226, 147);
+}
+
+.paragraph1 {
+  margin: 70px;
+  border-style: solid;
+  background-color: white;
+}
+.paragraph2 {
+  margin: 70px;
+  border-style: solid;
+  background-color: white;
+}
+
+.paragraph3 {
+  margin: 70px;
+  border: dashed;
+  background-color: white;
+  color: red;
+}
+.paragraph22 {
+  margin: 70px;
+  border: dashed red;
+}
+h1 {
+  padding: 10px;
+
+  background: white;
+}

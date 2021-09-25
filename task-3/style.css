@@ -1,0 +1,10 @@
+@import url("https://fonts.googleapis.com/css2?family=Oswald:wght@500&family=Roboto+Mono:ital,wght@1,300&family=Roboto+Slab:wght@500&display=swap");
+.left {
+  text-align: left;
+  font-family: "Oswald", sans-serif;
+}
+
+.right {
+  text-align: right;
+  font-family: "Roboto Mono", monospace;
+}

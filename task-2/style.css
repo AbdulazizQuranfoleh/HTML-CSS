@@ -1,0 +1,24 @@
+*{
+  margin: 0px;
+}
+body {
+  background-color: rgb(245, 245, 179);
+}
+h1 {
+  background-color: rgb(218, 218, 45);
+  margin-top: 0px 100px 100px 100px;
+  padding: 150px;
+}
+aside {
+  width: 30%;
+  height: 700px;
+  padding-left: 15px;
+  margin: 0px;
+  float: right;
+  background-color: gray;
+}
+main {
+  background-color: white;
+  pa
+
+}
